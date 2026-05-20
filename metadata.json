@@ -1,0 +1,8 @@
+{
+  "name": "ASCII 艺术风格化生成器",
+  "description": "将任何 ASCII 字符画转化为精美的艺术图像。支持多种艺术风格，由 Gemini AI 驱动。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
